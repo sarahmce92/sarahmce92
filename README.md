@@ -11,6 +11,8 @@
 
 - 💻 Some projects I've worked on include <b>EZ-Contract</b>; a platform for sending and signing contracts online <i> https://e-signatures.herokuapp.com/ </i> and <b>Gotta Sell Them All</b>; a market place for buying and selling Pokémon! <i>https://gotta-sell-them-all.herokuapp.com/</i>
 
+- 🎨 Check out my <b>portfolio</b>! <i>https://troopl.com/sarahmce92</i>
+
 - ⚡ Fun fact **I am fluent in Irish (Gaeilge) and British Sign Language!**
 
 <h3 align="left">Connect with me:</h3>
